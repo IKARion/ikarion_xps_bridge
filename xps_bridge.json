@@ -1,0 +1,23 @@
+{
+   "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa":{
+      "x.x.x.x": "LAB@model"
+   },
+   "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb":{
+      "x.x.x.x": "LMS@event",
+      "x.x.x.x": "DEV@event"
+   },
+   "cccccccccccccccccccccccccccccccc":{
+      "x.x.x.x": "LMS@query"
+   },
+   "dddddddddddddddddddddddddddddddd":{
+      "x.x.x.x": "DEV@remote",
+      "127.0.0.1": "DEV@local",
+      "any": "DEV@any"
+   },
+   "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee":{
+      "127.0.0.1": "BAK@recovery"
+   },
+   "fffffffffffffffffffffffffffffff":{
+      "any": "SCR@monitor"
+   }
+}
